@@ -1,2 +1,2 @@
 # GetNumber
-Learning the basics of Ruby
+Learning the basics of Ruby.
